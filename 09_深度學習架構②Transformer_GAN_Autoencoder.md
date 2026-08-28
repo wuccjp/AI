@@ -1,4 +1,4 @@
-# 第 9 週｜深度學習架構②：Transformer／GAN／Autoencoder
+# 第 9 單元｜深度學習架構②：Transformer／GAN／Autoencoder
 
 > 單元目標：掌握生成與注意力架構，辨識 Transformer、GAN、Autoencoder/VAE 的特性與應用。
 > 對應考點：Transformer（LLM 基礎）、GAN（生成）、Autoencoder（異常/重建）、Batch Normalization、GRPO。
@@ -128,7 +128,7 @@
 - **01:00–01:25** 實作/案例：分辨「生成/重建/語言/異常」題；討論 LLM 背後的 Transformer
 - **01:25–01:45** 考古題測驗 10 題
 - **01:45–01:55** 檢討
-- **01:55–02:00** 預告第 10 週（評估指標）＋收尾
+- **01:55–02:00** 預告第 10 單元（評估指標）＋收尾
 
 ---
 
@@ -141,4 +141,4 @@
 - **GRPO**＝強化式優化 LLM 推理。
 - 口訣：**語言→Transformer；生成→GAN；重建異常→Autoencoder。**
 
-> 下一週預告：第 10 週「模型評估指標與過擬合」——Precision/Recall/F1/Accuracy 計算與判讀。
+> 下一單元預告：第 10 單元「模型評估指標與過擬合」——Precision/Recall/F1/Accuracy 計算與判讀。
